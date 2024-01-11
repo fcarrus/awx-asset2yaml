@@ -1,0 +1,11 @@
+src_tower:
+  url: https://oldtower.example.org
+  usr: admin
+  pwd: secret
+  verifyssl: false
+
+dst_tower:
+  url: https://newtower.example.org
+  usr: admin
+  pwd: secret
+  verifyssl: false
